@@ -1,5 +1,3 @@
-# feedback-collector-api
-
 # 📬 Feedback Collector API
 
 A simple and scalable RESTful API built with **Express.js** to collect user feedback, suggestions, bug reports, or ratings.
